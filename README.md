@@ -4,16 +4,16 @@ First of all,  this assignment is about XML, XSD, XPATH techologies. Also, it de
 
 Make sure that you are already installed ANT on your machine and then type on console the following instructions:
 
-			ant execute.evaluation
+	ant execute.evaluation
 
 Command "execute.evaluation" contains a different types of commands such as:
 
-	"compile" - Compiling all the source files 
-	"execute.PeopleID" - Executing search person with selected ID. In this case, ID = 10
-	"execute.Weight" - Executing a search on people with weight. In this case, weight > 95
-	"execute.HPReader" - Executing the Unmarhalling of people 
-	"execute.HPWriter" - Executing the marshalling of people to people.xml file
-	"execute.HPJson" - Marshalling to JSON format
+	compile - Compiling all the source files 
+	execute.PeopleID - Executing search person with selected ID. In this case, ID = 10
+	execute.Weight - Executing a search on people with weight. In this case, weight > 95
+	execute.HPReader - Executing the Unmarhalling of people 
+	execute.HPWriter - Executing the marshalling of people to people.xml file
+	execute.HPJson - Marshalling to JSON format
 
 ###Project structure###
 
