@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<people>
+    <person id="1">
+        <firstname>Toomas</firstname>
+        <lastname>Kalioja</lastname>
+        <birthdate>1992-06-26T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2011-08-12T13:00:00.000+02:00</lastupdate>
+            <weight>120</weight>
+            <height>1.50</height>
+            <bmi>60.14</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="2">
+        <firstname>Obama</firstname>
+        <lastname>Putin</lastname>
+        <birthdate>1977-02-21T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-03-20T17:20:00.000+02:00</lastupdate>
+            <weight>50</weight>
+            <height>1.70</height>
+            <bmi>33.12</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="3">
+        <firstname>Salavat</firstname>
+        <lastname>Ulaev</lastname>
+        <birthdate>1784-03-21T15:30:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2012-10-20T12:33:00.000+02:00</lastupdate>
+            <weight>75 </weight>
+            <height>1.80</height>
+            <bmi>25.14</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="4">
+        <firstname>Aleksandr</firstname>
+        <lastname>Pushkin</lastname>
+        <birthdate>1799-05-26T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2010-10-10T20:00:00.000+02:00</lastupdate>
+            <weight>90</weight>
+            <height>1.74</height>
+            <bmi>23.14</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="5">
+        <firstname>Andrey</firstname>
+        <lastname>Arshavin</lastname>
+        <birthdate>1984-09-22T13:23:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2013-01-28T12:41:00.000+02:00</lastupdate>
+            <weight>77</weight>
+            <height>1.68</height>
+            <bmi>25.17</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="6">
+        <firstname>Bob</firstname>
+        <lastname>Marley</lastname>
+        <birthdate>1945-02-06T14:21:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2004-10-13T18:03:00.000+02:00</lastupdate>
+            <weight>69</weight>
+            <height>1.70</height>
+            <bmi>21.14</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="7">
+        <firstname>Dalai</firstname>
+        <lastname>Lama XIV</lastname>
+        <birthdate>1935-07-06T0:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2015-10-140T21:30:00.000+02:00</lastupdate>
+            <weight>88</weight>
+            <height>1.71</height>
+            <bmi>22.14</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="8">
+        <firstname>Sauli</firstname>
+        <lastname>Ninisto</lastname>
+        <birthdate>1910-02-29T18:45:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-01-01T12:56:00.000+02:00</lastupdate>
+            <weight>80</weight>
+            <height>1.71</height>
+            <bmi>22.14</bmi>
+        </healthprofile>
+    </person> 
+
+    <person id="9">
+        <firstname>Iosif</firstname>
+        <lastname>Stalin</lastname>
+        <birthdate>1917-09-13T08:20:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2013-10-11T23:01:00.000+02:00</lastupdate>
+            <weight>90</weight>
+            <height>1.80</height>
+            <bmi>29.14</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="10">
+        <firstname>Silvio</firstname>
+        <lastname>Berluskoni</lastname>
+        <birthdate>1954-01-22T17:50:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2001-02-20T16:45:00.000+02:00</lastupdate>
+            <weight>91</weight>
+            <height>1.66</height>
+            <bmi>28.14</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="11">
+        <firstname>Mario</firstname>
+        <lastname>Balotelli</lastname>
+        <birthdate>1989-09-13T10:20:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2007-04-07T18:00:00.000+02:00</lastupdate>
+            <weight>78</weight>
+            <height>1.71</height>
+            <bmi>21.16</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="12">
+        <firstname>Alex</firstname>
+        <lastname>Ferguson</lastname>
+        <birthdate>1945-02-21T07:32:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-01-20T18:00:00.000+02:00</lastupdate>
+            <weight>90</weight>
+            <height>1.69</height>
+            <bmi>33.11</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="13">
+        <firstname>Bill</firstname>
+        <lastname>Clinton</lastname>
+        <birthdate>1961-10-21T18:29:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2012-09-20T18:00:00.000+02:00</lastupdate>
+            <weight>92</weight>
+            <height>1.71</height>
+            <bmi>27.14</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="14">
+        <firstname>Ville</firstname>
+        <lastname>Vallo</lastname>
+        <birthdate>1982-02-09T15:20:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2001-04-22T18:34:00.000+02:00</lastupdate>
+            <weight>90</weight>
+            <height>1.80</height>
+            <bmi>29.29</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="15">
+        <firstname>David</firstname>
+        <lastname>Blane</lastname>
+        <birthdate>1924-06-27T11:37:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2012-10-21T18:21:00.000+02:00</lastupdate>
+            <weight>90</weight>
+            <height>1.69</height>
+            <bmi>22.21</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="16">
+        <firstname>Alla</firstname>
+        <lastname>Pugacheva</lastname>
+        <birthdate>1832-10-21T14:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2015-09-20T18:00:00.000+02:00</lastupdate>
+            <weight>190</weight>
+            <height>1.50</height>
+            <bmi>60.14</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="17">
+        <firstname>Timati</firstname>
+        <lastname>Unusov</lastname>
+        <birthdate>1982-05-21T18:32:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2011-10-03T18:00:00.000+02:00</lastupdate>
+            <weight>90</weight>
+            <height>1.73</height>
+            <bmi>30.14</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="18">
+        <firstname>Mikki</firstname>
+        <lastname>Mouse</lastname>
+        <birthdate>1984-09-20T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-09-20T18:00:00.000+02:00</lastupdate>
+            <weight>900</weight>
+            <height>0.70</height>
+            <bmi>26.14</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="19">
+        <firstname>Mister</firstname>
+        <lastname>Nobody</lastname>
+        <birthdate>1984-09-20T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-09-20T18:00:00.000+02:00</lastupdate>
+            <weight>10</weight>
+            <height>1.00</height>
+            <bmi>01.10</bmi>
+        </healthprofile>
+    </person>
+
+    <person id="20">
+        <firstname>Spot</firstname>
+        <lastname>Dirty</lastname>
+        <birthdate>1984-09-20T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-09-20T18:00:00.000+02:00</lastupdate>
+            <weight>70</weight>
+            <height>1.40</height>
+            <bmi>23.14</bmi>
+        </healthprofile>
+    </person>
+</people>
